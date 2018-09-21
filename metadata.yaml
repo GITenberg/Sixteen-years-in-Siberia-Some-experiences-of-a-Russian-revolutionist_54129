@@ -1,11 +1,14 @@
 _repo: Sixteen-years-in-Siberia-Some-experiences-of-a-Russian-revolutionist_54129
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: '16 years in Siberia: Some experiences of a Russian revolutionist'
 contributor:
   translator:
     agent_name: Chisholm, Helen
     gutenberg_agent_id: '47719'
     url: http://www.gutenberg.org/2009/agents/47719
+covers:
+- cover_type: archival
+  image_path: 54129-h/images/cover.jpg
 creator:
   author:
     agent_name: Deich, L. G. (Lev Grigor'evich)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47718
     wikipedia: https://en.wikipedia.org/wiki/Leo_Deutsch
 description: 'Translation of: Шестнадцать лет в Сибири'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54129#Sixteen-years-in-Siberia-Some-experiences-of-a-Russian-revolutionist
 gutenberg_issued: '2017-02-07'
 gutenberg_type: Text
 identifiers:
